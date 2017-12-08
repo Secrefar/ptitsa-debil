@@ -1,0 +1,24 @@
+h1 {
+	color: red;
+}
+
+.main-section {
+background-color: color: #f7f7f7;
+height: 500px;
+padding: 30px;
+margin-bottom: 50px;
+border: 5px dashed #ac5685;
+border-radius: 20px
+}
+
+a {
+	color: purple;
+}
+
+.main-section a {
+	color: green;
+}
+
+a:hover {
+	color: blue;
+}
